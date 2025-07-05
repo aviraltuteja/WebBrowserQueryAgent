@@ -1,4 +1,4 @@
-
+This application acts as an intelligent agent that takes your queries, understands their intent, and delivers concise, relevant information. Whether you're looking for new information or revisiting a past topic, our agent streamlines the process by validating your requests, leveraging historical data, and, when necessary, performing real-time web scrapes to summarize the top results.
 
 First, run the development server:
 
